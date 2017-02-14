@@ -53,19 +53,18 @@
 						<div class="col-md-12">
 							<div id="carousel-intro" class="carousel">
 								<div class="active item">
-									<h2 class="start-title">Samuel Sidorchuck</h2>
+									<h2 class="start-title">Connected</h2>
 									<div class="for-btn-site">
 									</div>
 								</div>
 								<div class="item">
-									<h2 class="start-title">Dexter Norris</h2>
+									<h2 class="start-title">Efficient</h2>
 									<div class="for-btn-site">
 									</div>
 								</div>
 								<div class="item">
-									<h2 class="start-title">Personal <span>Portfolio</span> And <span>Agency</span></h2>
+									<h2 class="start-title">Sustainable</h2>
 									<div class="for-btn-site">
-										<a href="#0" class="btn-site">Get Started</a>
 									</div>
 								</div>
 							</div>
@@ -83,8 +82,8 @@
 					<div class="col-md-12">
 						<div class="row">
 							<div class="title-dark-section">
-								<h2>.Our Showcase.</h2>
-								<div class="sub-title">Amazing features with creative portfolio</div>
+								<h2>Our Greenhouse</h2>
+								<div class="sub-title">Ambitious Challenges - Innovative Solutions</div>
 							</div>
 						</div>
 					</div>
@@ -212,8 +211,8 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="inner-title-section">
-							<h2>.What We Do.</h2>
-							<div class="sub-title">We Are Create Awesome Staff</div>
+							<h2>What We've Done</h2>
+							<div class="sub-title">A Detailed Summary</div>
 						</div>
 					</div>
 				</div>
@@ -225,19 +224,19 @@
 							<div class="col-md-4">
 								<div class="services-item">
 									<div class="services-name">
-										<h4>Branding</h4>
+										<h4>Connectivity</h4>
 									</div>
 									<div class="services-text">
-										<p>Praesent magna tortor, posuere nec tellus eget, fermentum molestie magna. Vivamus eget tortor et massa vulputate bibendum. Praesent mattis auctor aliquam. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+										<p>Connecting the greenhouse to renewable electricity and the outside world.</p>
 									</div>
 									<div class="service-list">
 										<ul>
-											<li>Web Applications</li>
-											<li>User Interface Design</li>
-											<li>UX Web Design</li>
-											<li>Search Engine Optimisation</li>
-											<li>Technical requirements</li>
-											<li>Facebook apps</li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
 										</ul>
 									</div>
 								</div>
@@ -245,19 +244,19 @@
 							<div class="col-md-4">
 								<div class="services-item">
 									<div class="services-name">
-										<h4>Design</h4>
+										<h4>Construction</h4>
 									</div>
 									<div class="services-text">
-										<p>Nulla facilisi. Etiam ornare risus at lectus ullamcorper, sed bibendum nibh lacinia. Nam elementum, tellus id auctor ullamcorper, ligula sem rutrum leo, id vulputate purus nibh sed tellus. Nullam vel sagittis eros, sit amet commodo felis.</p>
+										<p>Ensuring the structural and thermal viability of the greenhouse.</p>
 									</div>
 									<div class="service-list">
 										<ul>
-											<li>Backend development</li>
-											<li>Frontend development</li>
-											<li>UX Web Design</li>
-											<li>Search Engine Optimisation</li>
-											<li>Technical requirements</li>
-											<li>Facebook apps</li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
 										</ul>
 									</div>
 								</div>
@@ -265,19 +264,19 @@
 							<div class="col-md-4">
 								<div class="services-item">
 									<div class="services-name">
-										<h4>Web Development</h4>
+										<h4>Habitability</h4>
 									</div>
 									<div class="services-text">
-										<p>Sed ornare, ligula lacinia imperdiet ullamcorper, tellus mauris ultrices dui, id cursus odio quam ut nisi. Vestibulum consectetur velit non convallis lobortis. Vivamus in ipsum a mauris pretium semper. Curabitur viverra mi eu lobortis mollis.</p>
+										<p>Creating an optimized environment for plant growth</p>
 									</div>
 									<div class="service-list">
 										<ul>
-											<li>Search Engine Optimisation</li>
-											<li>Technical requirements</li>
-											<li>Facebook apps</li>
-											<li>Backend development</li>
-											<li>Frontend development</li>
-											<li>UX Web Design</li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
 										</ul>
 									</div>
 								</div>
@@ -395,96 +394,6 @@
 												</a>
 											</div>
 										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="inner-title-section">
-							<h2>.Our Skills.</h2>
-							<div class="sub-title">Our Basic Skills</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="container bottom-divide">
-				<div class="row">
-					<div class="col-md-6 divide-sm-40">
-						<div class="skills-wrapper clearfix">
-							<div class="skills-chart">
-								<div class="skills-name progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"><a href="#html">HTML5</a></div>
-							</div>
-							<div class="skills-chart">
-								<div class="skills-name progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"><a href="#css">CSS3</a></div>
-							</div>
-							<div class="skills-chart">
-								<div class="skills-name progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"><a href="#jquery">jQuery</a></div>
-							</div>
-							<div class="skills-chart">
-								<div class="skills-name progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100" style="width: 97%;"><a href="#js">JS</a></div>
-							</div>
-							<div class="skills-chart">
-								<div class="skills-name progress-bar" role="progressbar" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100" style="width: 48%;"><a href="#php">PHP</a></div>
-							</div>
-							<div class="skills-chart">
-								<div class="skills-name progress-bar" role="progressbar" aria-valuenow="87" aria-valuemin="0" aria-valuemax="100" style="width: 87%;"><a href="#ps">Ps</a></div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6">
-						<div class="skills-description">
-							<div class="skills-description-wrapper">
-								<div class="skill-description-item" id="html">
-									<div class="skills-title">HTML5</div>
-									<div class="skills-duration">Duration: <span>4 years</span></div>
-									<div class="skills-experience">Experience: <span>SVG, Canvas, Geolocation and etc.</span></div>
-									<div class="skills-description-text">
-										<p>Maecenas quis dictum ante, ut maximus magna. Proin aliquam luctus suscipit. Praesent augue velit, fringilla a mauris eu, sagittis feugiat sapien. Cras pellentesque enim ut rhoncus dictum.</p>
-									</div>
-								</div>
-								<div class="skill-description-item" id="css">
-									<div class="skills-title">CSS3</div>
-									<div class="skills-duration">Duration: <span>6 years</span></div>
-									<div class="skills-experience">Experience: <span>Media Queries, Multi-column, Colors and etc.</span></div>
-									<div class="skills-description-text">
-										<p>Nam dui tortor, ullamcorper et auctor at, dapibus nec lacus. Nulla pellentesque ultricies velit vel porta. Curabitur suscipit ultrices augue placerat porta. Sed vitae justo dapibus, efficitur mi id, molestie lorem.</p>
-									</div>
-								</div>
-								<div class="skill-description-item" id="jquery">
-									<div class="skills-title">jQuery</div>
-									<div class="skills-duration">Duration: <span>5 years</span></div>
-									<div class="skills-experience">Experience: <span>jQuery UI, jQuery Mobile, QUnit and etc.</span></div>
-									<div class="skills-description-text">
-										<p>Nam dui tortor, ullamcorper et auctor at, dapibus nec lacus. Nulla pellentesque ultricies velit vel porta. Curabitur suscipit ultrices augue placerat porta. Sed vitae justo dapibus, efficitur mi id, molestie lorem.</p>
-									</div>
-								</div>
-								<div class="skill-description-item" id="js">
-									<div class="skills-title">JS</div>
-									<div class="skills-duration">Duration: <span>10 years</span></div>
-									<div class="skills-experience">Experience: <span>Angular JS, Node JS, Prototype JS, Mootools and etc.</span></div>
-									<div class="skills-description-text">
-										<p>Nam dui tortor, ullamcorper et auctor at, dapibus nec lacus. Nulla pellentesque ultricies velit vel porta. Curabitur suscipit ultrices augue placerat porta. Sed vitae justo dapibus, efficitur mi id, molestie lorem.</p>
-									</div>
-								</div>
-								<div class="skill-description-item" id="php">
-									<div class="skills-title">PHP</div>
-									<div class="skills-duration">Duration: <span>3 years</span></div>
-									<div class="skills-experience">Experience: <span>Laravel, Symfony2, Yii 2, Nette, CodeIgniter and etc.</span></div>
-									<div class="skills-description-text">
-										<p>Nam dui tortor, ullamcorper et auctor at, dapibus nec lacus. Nulla pellentesque ultricies velit vel porta. Curabitur suscipit ultrices augue placerat porta. Sed vitae justo dapibus, efficitur mi id, molestie lorem.</p>
-									</div>
-								</div>
-								<div class="skill-description-item" id="ps">
-									<div class="skills-title">Ps</div>
-									<div class="skills-duration">Duration: <span>5 years</span></div>
-									<div class="skills-experience">Experience: <span>Web Design, Mobile App Design, Logo, Photo, Posters and etc.</span></div>
-									<div class="skills-description-text">
-										<p>Nam dui tortor, ullamcorper et auctor at, dapibus nec lacus. Nulla pellentesque ultricies velit vel porta. Curabitur suscipit ultrices augue placerat porta. Sed vitae justo dapibus, efficitur mi id, molestie lorem.</p>
 									</div>
 								</div>
 							</div>
